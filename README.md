@@ -7,7 +7,7 @@
 React**
 <img
   align="right"
-  width="300"
+  width="250"
   src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif"
   alt="Coding"
 />
