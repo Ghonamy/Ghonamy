@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ebrahim Ghonamy👋</h1>
-<img src="banner.png" alt="" / style="width: 1000px;">
+<img src="github-profile.png" alt="" />
 <h3 align="center">
   I'm Web Developer, Learning about Frontend & Backend Technologies.
 </h3>
