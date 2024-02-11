@@ -8,6 +8,7 @@ React**
 <img
   align="right"
   width="300"
+  border-radius="50%"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
   alt="Coding"
 />
