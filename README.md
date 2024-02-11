@@ -7,7 +7,7 @@
 React**
 <img
   align="right"
-  width="400"
+  width="300"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
   alt="Coding"
 />
