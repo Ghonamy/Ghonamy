@@ -61,7 +61,6 @@ React**
       height="40"
     />
   </a>
-
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
