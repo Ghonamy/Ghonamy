@@ -1,12 +1,16 @@
 <h1 align="center">Hi, I'm Ebrahim Ghonamy👋</h1>
-<img src="github-profile.png" alt="" />
 <h3 align="center">
   I'm Web Developer, Learning about Frontend & Backend Technologies.
 </h3>
 
 - 👨‍💻 I’m Currently Working on **Web Development Technologies Like JavaScript &
 React**
-
+<img
+  align="right"
+  width="400p"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  alt="Coding"
+/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/benghonamy" target="blank"
