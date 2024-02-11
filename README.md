@@ -7,9 +7,8 @@
 React**
 <img
   align="right"
-  width="300"
-  style="border-radius=50%;"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  width="400"
+  src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif)"
   alt="Coding"
 />
 <h3 align="left">Connect with me:</h3>
