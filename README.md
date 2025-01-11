@@ -3,8 +3,8 @@
   I'm Web Developer, Learning about Frontend & Backend Technologies.
 </h3>
 
-- 👨‍💻 I’m Currently Working on **Web Development Technologies Like JavaScript &
-React**
+- I’m Currently Working on **Web Development Technologies Like JavaScript &
+React**👨‍💻
 <img
   align="right"
   width="280"
