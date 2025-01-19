@@ -2,8 +2,7 @@
 👋 Hi, I'm Ebrahim Ghonamy<br>🔭 I’m Currently working on React Projects.<br>👯 I’m Looking to Collaborate on Frontend Projects.<br>🤝 I’m Looking For Help with Implementing Advanced Ideas.<br>🌱 I’m Currently Learning Redux For Enhancement.<br>💬 Ask me about Anything Related to Building Web Applications.<br>⚡ Fun Fact: The Gym Always Comes First, Then The Code! 💪💻
 <br>
 <img
-  align="right"
-  width="280"
+  width="350"
   src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif"
   alt="Coding"
 />
