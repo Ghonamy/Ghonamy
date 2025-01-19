@@ -12,7 +12,7 @@
 ⚡ Fun Fact: The Gym Always Comes First, Then The Code! 💪💻
 </td>
 <td>
-<img src="https://via.placeholder.com/150" alt="About Me Image" width="150" />
+<img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image" width="200" />
 </td>
 </tr>
 </table>
