@@ -2,7 +2,12 @@
 👋 Hi, I'm Ebrahim Ghonamy<br>🔭 I’m Currently working on React Projects.<br>👯 I’m Looking to Collaborate on Frontend Projects.<br>🤝 I’m Looking For Help with Implementing Advanced Ideas.<br>🌱 I’m Currently Learning Redux For Enhancement.<br>💬 Ask me about Anything Related to Building Web Applications.<br>⚡ Fun Fact: The Gym Always Comes First, Then The Code! 💪💻
 
 
-<img src="https://www.facebook.com/ibrahem.benghonamy/">
+<img
+  align="right"
+  width="280"
+  src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif"
+  alt="Coding"
+/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ibrahem.benghonamy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ebrahim_ghonamy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ibrahim-ghonamy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BenGhonamy) 
