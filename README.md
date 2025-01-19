@@ -1,4 +1,4 @@
-# Hey, I'm Ebrahim Ghonamy 👋
+<h1 align="center">Hey, I'm Ebrahim Ghonamy 👋</h1>
 <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image" width="200" align="right" />
 
 🔭 I’m Currently working on React Projects.<br>
