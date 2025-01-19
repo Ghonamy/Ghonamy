@@ -3,7 +3,6 @@
 
 
 <img
-  
   width="280"
   src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif"
   alt="Coding"
