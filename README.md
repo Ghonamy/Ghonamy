@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ebrahim Ghonamy👋</h1>
 <h3 align="center">
-  I'm Web Developer, Learning about Frontend & Backend Technologies.
+  I'm Web Developer, I'm Learning about Frontend & Backend Technologies.
 </h3>
 
 - I’m Currently Working on **Web Development Technologies Like JavaScript &
