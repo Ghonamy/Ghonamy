@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image" width="200" />
+<img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image" width="200" align="right" />
 
 👋 Hi, I'm Ebrahim Ghonamy<br>
 🔭 I’m Currently working on React Projects.<br>
