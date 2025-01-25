@@ -3,7 +3,6 @@
 <p>• I'm Web Developer, I'm Learning about Frontend & Backend Technologies.</h3>
 <p>• I’m Currently Working on Web Development Technologies Like JavaScript & React 👨‍💻</h3>
 
--------------------------
 <div align="center" >
 <img style="border-radius: 10px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
