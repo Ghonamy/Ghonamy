@@ -1,10 +1,13 @@
 <h1 align="center">Hey, I'm Ibrahim Ghonamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 
-<p>I'm Web Developer, I'm Learning about Frontend & Backend Technologies.</h3>
-<p>I’m Currently Working on Web Development Technologies Like JavaScript & React 👨‍💻</h3>
+<p>• I'm Web Developer, I'm Learning about Frontend & Backend Technologies.</h3>
+<p>• I’m Currently Working on Web Development Technologies Like JavaScript & React 👨‍💻</h3>
+
+
 -------------------------
+
 <div align="center" >
-<img style="width: 350px" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image">
+<img style="width: 400px" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image">
 </div>
 <br />
 
