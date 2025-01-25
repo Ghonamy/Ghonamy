@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ebrahim Ghonamy 👋</h1>
+<h1 align="center">Hey, I'm Ebrahim Ghonamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image" width="180" align="right" />
 
 🔭 I’m Currently working on React Projects.<br>
