@@ -5,7 +5,7 @@
 
 -------------------------
 <div align="center" >
-<img style="width: 500px; hight: 300px" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image">
+<img style="width: 350px; src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image">
 </div>
 <br />
 
