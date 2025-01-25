@@ -1,11 +1,16 @@
 <h1 align="center">Hey, I'm Ibrahim Ghonamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 
-<h3>I'm Web Developer, I'm Learning about Frontend & Backend Technologies.</h3>
-<h3>I’m Currently Working on Web Development Technologies Like JavaScript & React 👨‍💻</h3>
+<p>I'm Web Developer, I'm Learning about Frontend & Backend Technologies.</h3>
+<p>I’m Currently Working on Web Development Technologies Like JavaScript & React 👨‍💻</h3>
 
 <h3>
   <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image" width="300" />
 </h3>
+-------------------------
+<div align="center" >
+<img style="border-radius: 10px" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image">
+</div>
+<br />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ibrahem.benghonamy)
