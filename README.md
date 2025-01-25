@@ -2,13 +2,9 @@
 
 <p>I'm Web Developer, I'm Learning about Frontend & Backend Technologies.</h3>
 <p>I’m Currently Working on Web Development Technologies Like JavaScript & React 👨‍💻</h3>
-
-<h3>
-  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image" width="300" />
-</h3>
 -------------------------
 <div align="center" >
-<img style="border-radius: 10px" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image">
+<img style="width: 350px" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image">
 </div>
 <br />
 
