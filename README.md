@@ -1,13 +1,8 @@
-<h1 align="center">Hey, I'm Ebrahim Ghonamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h1 align="center">Hey, I'm Ibrahim Ghonamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="About Me Image" width="180" align="right" />
 
-🔭 I’m Currently working on React Projects.<br>
-💯 I’m Looking to Collaborate on Frontend Projects.<br>
-🤝 I’m Looking For Help with Implementing Advanced Ideas.<br>
-🌱 I’m Currently Learning Redux For Enhancement.<br>
-💬 Ask me about Anything Related to Building Web Applications.<br>
-⚡ Fun Fact: The Gym Always Comes First, Then The Code! 💪💻
-
+I'm Web Developer, I'm Learning about Frontend & Backend Technologies.
+I’m Currently Working on Web Development Technologies Like JavaScript & React 👨‍💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ibrahem.benghonamy)
