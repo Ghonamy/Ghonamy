@@ -1,5 +1,7 @@
 <h1 align="center">Hi There I'm Ibrahim Ghonamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p>• I'm Web Developer, I'm Learning about Frontend & Backend Technologies.</p>
 <p>• I’m Currently Working on Web Development Technologies Like JavaScript & React. 👨‍💻</p>
 <p>• Future Goals: Learn more web technologies - Create awesome websites. 🎯</p>
