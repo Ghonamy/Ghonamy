@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CS+Student;Building+Cool+Shit;React+%7C%7C+Node.js+%7C%7C+Next.js;Turning+Coffee+Into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;CS+Student+%40+Zagazig+University;Building+Cool+Shit;React+%7C%7C+Node.js+%7C%7C+Next.js;Turning+Coffee+Into+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,10 +16,29 @@
 <br />
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:FF6B6B&height=120&section=header&text=Welcome%20To%20My%20Universe&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+<div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=⚡+Currently+Crafting+Web+Experiences+with+React+%26+Node.js;🔥+Learning+Something+New+Every+Single+Day;🚀+Available+for+Freelance+%26+Collaboration;💡+Problem+Solver+%7C+Code+Addict+%7C+Night+Owl)]()
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=⚡+Currently+Crafting+Web+Experiences+with+React+%26+Node.js;🎓+Working+on+My+Graduation+Project;🔥+Learning+Something+New+Every+Single+Day;🚀+Available+for+Freelance+%26+Collaboration;💡+Problem+Solver+%7C+Code+Addict+%7C+Night+Owl)]()
   
 </div>
+
+---
+
+## 🧠 About Me
+
+```javascript
+const ibrahim = {
+    role: "Full Stack Developer & CS Student",
+    university: "Zagazig University",
+    focus: ["React", "Next.js", "Node.js"],
+    currentlyBuilding: "Monqth — an emergency response platform",
+    freelance: true,
+    funFact: "Coffee-to-code conversion rate: 98%"
+};
+```
 
 ---
 
@@ -66,6 +85,18 @@
 
 ---
 
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🚨 Monqth — Emergency Response Platform
+Graduation project focused on real-time emergency response and notifications.
+I own the entire **React** frontend — UI, state management, and the real-time notification stack — while my teammate handles the **Laravel + MySQL** backend.
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,6 +109,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghonamy&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
   
 </div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghonamy&theme=react-dark&hide_border=true&area=true" width="95%" />
+  
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Ghonamy/Ghonamy/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  
+</div>
+
+> ⚠️ ملحوظة: الأنيميشن ده محتاج تعمله workflow صغير في الريبو الخاص بيك اسمه `Ghonamy` (اللي بيتسمى profile repo)، هقولك الخطوات تحت.
 
 ---
 
