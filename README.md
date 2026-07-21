@@ -1,28 +1,34 @@
+<!-- Animated Header Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7B2FF7,100:FF6B6B&height=200&section=header&text=IBRAHIM%20GHONAMY&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%40%20Zagazig&descAlignY=55&descSize=18" />
+</div>
+
+<!-- Hand Wave + Name -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Yo! I'm Ibrahim Ghonamy
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
+  <br />
+  <span style="background: linear-gradient(90deg, #00D4FF, #FF6B6B); -webkit-background-clip: text;">Ibrahim Ghonamy</span>
 </h1>
 
+<!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;CS+Student+%40+Zagazig+University;Building+Cool+Shit;React+%7C%7C+Node.js+%7C%7C+Next.js;Turning+Coffee+Into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;CS+Student+%40+Zagazig+University;React+%E2%9A%9B%EF%B8%8F+Node.js+%F0%9F%94%A5+Next.js+%F0%9F%9A%80;Building+Cool+Shit+Since+2021;Coffee+%E2%86%92+Code+Conversion%3A+99%25" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- Profile Views Counter (Animated) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" style="border-radius: 12px;" />
+  <img src="https://komarev.com/ghpvc/?username=Ghonamy&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ghonamy?label=Followers&style=for-the-badge&color=FF6B6B&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ghonamy?label=Stars&style=for-the-badge&color=7B2FF7&logo=github" alt="Stars" />
 </div>
 
 <br />
 
+<!-- Animated Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:FF6B6B&height=120&section=header&text=Welcome%20To%20My%20Universe&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=⚡+Currently+Crafting+Web+Experiences+with+React+%26+Node.js;🎓+Working+on+My+Graduation+Project;🔥+Learning+Something+New+Every+Single+Day;🚀+Available+for+Freelance+%26+Collaboration;💡+Problem+Solver+%7C+Code+Addict+%7C+Night+Owl)]()
-  
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 </div>
 
 ---
@@ -31,145 +37,123 @@
 
 ```javascript
 const ibrahim = {
-    role: "Full Stack Developer & CS Student",
-    university: "Zagazig University",
-    focus: ["React", "Next.js", "Node.js"],
-    currentlyBuilding: "Monqth — an emergency response platform",
-    freelance: true,
-    funFact: "Coffee-to-code conversion rate: 98%"
+    name: "Ibrahim Ghonamy",
+    role: "Full Stack Developer",
+    education: "CS Student @ Zagazig University",
+    location: "Egypt 🇪🇬",
+    
+    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+    askMeAbout: ["Web Dev", "React", "Next.js", "Node.js"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "SASS"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            database: ["MongoDB", "MySQL"]
+        },
+        devOps: ["Git", "GitHub", "Vercel", "Postman"],
+        tools: ["VS Code", "Figma", "Insomnia"]
+    },
+    
+    currentFocus: "Monqth — Emergency Response Platform 🚨",
+    funFact: "I debug with console.log and I'm not ashamed 😎",
+    coffeeToCode: "99.9% conversion rate ☕→💻"
 };
 ```
-
----
-
-## 🌐 Let's Connect
-
+🌐 Let's Connect
 <div align="center">
-  
-  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/ibrahem.benghonamy)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/ebrahim_ghonamy/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/ibrahim-ghonamy)
-  [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/BenGhonamy)
-  [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:ibrahimghonamy@gmail.com)
-  
+https://www.facebook.com/ibrahem.benghonamy
+https://www.instagram.com/ebrahim_ghonamy/
+https://linkedin.com/in/ibrahim-ghonamy
+https://x.com/BenGhonamy
+mailto:ibrahimghonamy@gmail.com
+https://ghonamy.github.io
 </div>
-
----
-
-## ⚡ Tech Arsenal
-
+⚡ Tech Stack (Animated)
 <div align="center">
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+🎨 Frontend
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white
+🛠 Backend & Database
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+🔧 Tools & DevOps
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 </div>
-
----
-
-## 🚀 Featured Project
-
+🚀 Featured Projects
 <div align="center">
-
-### 🚨 Monqth — Emergency Response Platform
-Graduation project focused on real-time emergency response and notifications.
-I own the entire **React** frontend — UI, state management, and the real-time notification stack — while my teammate handles the **Laravel + MySQL** backend.
-
+🚨 Monqth — Emergency Response Platform
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+Graduation project focused on real-time emergency response & notifications.
+I own the entire React frontend — UI, state management, real-time notifications — while my teammate handles Laravel + MySQL backend.
+🌐 Portfolio Website
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
+Personal portfolio with smooth animations and dark mode.
 </div>
-
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Analytics
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghonamy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghonamy&theme=radical&hide_border=true" width="49%" />
-  
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghonamy&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
-  
+<img src="https://github-readme-stats.vercel.app/api?username=Ghonamy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&custom_title=Ibrahim's%20GitHub%20Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghonamy&theme=radical&hide_border=true&border_radius=10" width="49%" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghonamy&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=10&custom_title=Most%20Used%20Languages" width="60%" />
 </div>
-
----
-
-## 📈 Activity Graph
-
+📈 Contribution Activity
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghonamy&theme=react-dark&hide_border=true&area=true" width="95%" />
-  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghonamy&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&radius=10" width="95%" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
+🐍 Contribution Snake (Dark Mode)
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/Ghonamy/Ghonamy/output/github-contribution-grid-snake-dark.svg" width="95%" />
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghonamy/Ghonamy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghonamy/Ghonamy/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ghonamy/Ghonamy/output/github-contribution-grid-snake.svg" width="95%" />
+  </picture>
 </div>
-
-> ⚠️ ملحوظة: الأنيميشن ده محتاج تعمله workflow صغير في الريبو الخاص بيك اسمه `Ghonamy` (اللي بيتسمى profile repo)، هقولك الخطوات تحت.
-
----
-
-## 🏆 GitHub Trophies
-
+⚠️ Setup Required: Snake animation needs a GitHub Actions workflow. Click here for setup guide
+🏆 GitHub Trophies
 <div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Ghonamy&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1)
-  
+https://github-profile-trophy.vercel.app/?username=Ghonamy&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7
 </div>
-
----
-
-## ✍️ Dev Quote of the Day
-
+✍️ Random Dev Quote
 <div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 </div>
-
----
-
+🎯 Current Status
 <div align="center">
-  
-  ### 💻 "First, solve the problem. Then, write the code." 
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> 
-  
-  **Open to collaborations & freelance projects!**
-  
-  <br />
-  
-  [![](https://visitcount.itsvg.in/api?id=Ghonamy&icon=5&color=0)](https://visitcount.itsvg.in)
-  
 </div>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+💻 "Talk is cheap. Show me the code." — Linus Torvalds
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+Thanks for visiting! Let's build something amazing together! 🚀
+
+https://visitcount.itsvg.in
+</div>
+<!-- Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FF7,100:00D4FF&height=150&section=footer&animation=twinkling" />
 </div>
