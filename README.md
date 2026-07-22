@@ -50,7 +50,9 @@ console.log("💻 Check my work: https://github.com/Ghonamy");
 <br/><br/>
 
 <a href="mailto:ghonamyebrahim@gmail.com">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d0d0d,50:ff6b35,100:ff8a4c&section=footer" width="100%" alt="footer" />
+  <img src="https://img.shields.io/badge/▸_Initiate_contact-ghonamyebrahim@gmail.com-ff6b35?style=for-the-badge&labelColor=0d1117" alt="contact" />
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d0d0d,50:ff6b35,100:ff8a4c&section=footer" width="100%" alt="footer" />
 
 </div>
