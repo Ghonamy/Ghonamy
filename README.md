@@ -36,7 +36,7 @@ console.log("💻 Check my work: https://github.com/Ghonamy");
 | Project                | Description                             | Tech Stack                       | Status       |
 | ---------------------- | --------------------------------------- | -------------------------------- | ------------ |
 | Monqez                 | Graduation project  | React, Tailwindcss  | ✅ Completed |
-| Forever                | E-commerce platform for ITI scholarship | React, Node.js, MongoDB, Express | ✅ Completed |
+| Forever                | E-commerce platform for ITI scholarship | React,Tailwindcss | ✅ Completed |
 | Prescripto             | Medical application | React, Node.js, MongoDB, Express | ✅ Completed |
 
 <div align="center">
