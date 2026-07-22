@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FF6B35&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;React.js+%C2%B7+Node.js+%C2%B7+TypeScript;CS+Graduate+%7C+Building+Scalable+Web+Apps;Clean+Code+%C2%B7+RESTful+APIs+%C2%B7+MongoDB" alt="typing" />
 <br/>
 <a href="#"><img src="https://img.shields.io/badge/⌂_Portfolio-Coming_Soon-ff6b35?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/ibrahim-ghonamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ghonamyebrahim@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-ff8a4c?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
 </div>
 <br/>
