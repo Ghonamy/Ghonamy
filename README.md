@@ -15,45 +15,8 @@ const ibrahim = {
   education: "Computer Science Graduate",
   location: "Remote",
   status: "Open to opportunities",
-
-  skills: {
-    frontend: [
-      "React.js",
-      "JavaScript",
-      "TypeScript",
-      "HTML5",
-      "CSS3",
-      "Tailwind CSS",
-    ],
-    backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
-    tools: ["Git", "GitHub", "Postman", "VS Code", "npm"],
-    learning: ["Docker", "AWS", "Next.js"],
-  },
-
   philosophy: "Clean code. Scalable architecture. User-first design.",
 };
-
-// Currently shipping
-const projects = [
-  {
-    name: "Monqez",
-    description: "Graduation project — [add your description here]",
-    stack: ["React", "Node.js", "MongoDB", "Express.js"],
-    status: "Completed",
-  },
-  {
-    name: "Forever",
-    description: "E-commerce platform built for ITI scholarship",
-    stack: ["React", "Node.js", "MongoDB", "Express.js"],
-    status: "Completed",
-  },
-  {
-    name: "Prescripto-Medical-App",
-    description: "Medical application — [add your description here]",
-    stack: ["React", "Node.js", "MongoDB", "Express.js"],
-    status: "Completed",
-  },
-];
 
 // Let's connect
 console.log("📫 Reach out: ghonamyebrahim@gmail.com");
